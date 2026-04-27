@@ -19,20 +19,17 @@ that supports candleLight-style USB-CAN adapters.
 
 - **MCU:** CH32V305RBT6 (RISC-V Qingke V4F, 144 MHz)
 - **Transceivers:** 2× SN65HVD230 (or compatible 3.3V CAN transceivers)
-- **USB:** Full-Speed device, USB-C
+- **USB:** High-Speed device (480 Mbit/s), USB-C
 - **Crystal:** 8 MHz HSE
 
 Hardware design files will be published in the future.
 
-## Building
+## Flashing
 
 Project is built with [MounRiver Studio](http://www.mounriver.com/) (MRS), the
 official WCH RISC-V IDE.
 
-1. Clone the repository
-2. Open the project in MRS (`File → Open Project`)
-3. Build (`Project → Build Project`)
-4. Flash with WCH-LinkE via `Run → Download`
+Flash with WCH-LinkE via `Run → Download`
 
 ## Usage on Linux
 
