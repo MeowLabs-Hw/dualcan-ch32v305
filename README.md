@@ -22,6 +22,16 @@ that supports candleLight-style USB-CAN adapters.
 - **USB:** High-Speed device (480 Mbit/s), USB-C
 - **Crystal:** 8 MHz HSE
 
+### Pinout
+
+| Function | Pin |
+|----------|-----|
+| CAN0 TX  | PB9 |
+| CAN0 RX  | PB8 |
+| CAN1 TX  | PB13 |
+| CAN1 RX  | PB12 |
+| Status LED | PA3 |
+
 Hardware design files will be published in the future.
 
 ## Flashing
