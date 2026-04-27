@@ -18,7 +18,7 @@ that supports candleLight-style USB-CAN adapters.
 ## Hardware
 
 - **MCU:** CH32V305RBT6 (RISC-V Qingke V4F, 144 MHz)
-- **Transceivers:** 2× SN65HVD230 (or compatible 3.3V CAN transceivers)
+- **Transceivers:** 2× SN65HVD230 (or compatible 3.3V/5V CAN transceivers)
 - **USB:** High-Speed device (480 Mbit/s), USB-C
 - **Crystal:** 8 MHz HSE
 
