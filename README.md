@@ -52,7 +52,8 @@ cansend can1 123#DEADBEEF
 
 ## Status
 
-Firmware work in progress. Hardware design files to be released.
+- **Firmware:** Complete and tested
+- **Hardware:** Design files in progress, to be released
 
 ## License
 
