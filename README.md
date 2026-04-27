@@ -11,10 +11,9 @@ that supports candleLight-style USB-CAN adapters.
 
 - 2× independent CAN channels
 - Classic CAN, up to 1 Mbit/s
-- USB Full-Speed, gs_usb compatible
+- USB High-Speed (480 Mbit/s), gs_usb compatible
 - SocketCAN integration on Linux (no driver install required on modern kernels)
 - Configurable bitrates per channel
-- Hardware error frame reporting
 
 ## Hardware
 
